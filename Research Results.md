@@ -13,5 +13,5 @@ The operational principle of the low-pass filter circuit is as follows:<br>
 
 This investigation underscores the necessity of subjecting subjective intuition to meticulous scrutiny, as conceptual confusion can readily arise during reasoning. The outcome, however, is constructive: achieving a clear understanding of the underlying principles. It is hoped this clarification proves beneficial to others.<br>
 ![图片](https://github.com/kuaizhoucheng/Mathematical-Visualization-of-the-Phase-Frequency-Response-in-RC-Circuits/blob/main/Result_1.png)
-![图片]()
+![图片](https://github.com/kuaizhoucheng/Mathematical-Visualization-of-the-Phase-Frequency-Response-in-RC-Circuits/blob/main/Result_2.png)
 ![图片]()
